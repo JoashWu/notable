@@ -1,0 +1,7 @@
+# 忽略Notable生成的临时文件
+*.log
+*.tmp
+
+# 忽略系统文件
+.DS_Store
+Thumbs.db
